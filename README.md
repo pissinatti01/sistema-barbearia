@@ -4,19 +4,30 @@ O barbeiro da barbearia próxima a Maria Lacerda, Igor Varela, comentou sobre pr
 
 Contexto:
 barbeiro:
-- compra produtos
-- corta cabelos das 14 as 19h
-- atende 1 cliente por vez
-- pinta
-- corta (low fade, mid fade, wolf cut, americano e social)
+- compra produtos;
+- corta cabelos das 14 as 19h;
+- atende 1 cliente por vez;
+- pinta;
+- corta (low fade, mid fade, wolf cut, americano e social);
 
 itens:
-- tesoura
-- talco
-- escova
-- tinta
-- gel em pó
-- 
+- tesoura;
+- talco;
+- escova;
+- tinta;
+- gel em pó;
+- descolorante de cabelo;
+
+despesas:
+- conta de luz;
+- conta de agua;
+
+cliente:
+- corta cabelo;
+- pinta cabelo;
+- escolhe um horário pra cortar o cabelo;
+- paga R$30 por corte;
+
 
 
 
