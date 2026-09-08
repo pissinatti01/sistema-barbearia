@@ -27,9 +27,3 @@ cliente:
 - pinta cabelo;
 - escolhe um horário pra cortar o cabelo;
 - paga R$30 por corte;
-
-
-
-
-
-<img width="1406" height="574" alt="image" src="https://github.com/user-attachments/assets/1cdb6f14-662c-483f-9a24-1c653f1f4052" />
